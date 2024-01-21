@@ -8,3 +8,11 @@
 // }
 
 // console.log(x);
+
+//PROBLEM 2: Countdown to 0 from 10
+
+// for (var i=10; i>0; i--)
+// {
+//     console.log(i);
+// };
+
